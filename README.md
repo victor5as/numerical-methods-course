@@ -14,7 +14,7 @@ and deepening their understanding of how the different algorithms work, their ad
 
 Prior experience in programming is helpful, but not a prerequisite. The programming language used throughout the course will be Julia.
 
-There will be no assignments and no grading, but students are encouraged to run the code in their own and experiment with it. 
+There are no graded assignments, but students are encouraged to run the code in their own and experiment with it. 
 The only way to learn this is by practicing!
 
 ## Contents
